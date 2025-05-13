@@ -304,4 +304,3 @@ If the modal opens as a new page instead of an overlay:
 ## Support and Resources
 
 - Email: support@swypt.io
-- GitHub: [GitHub Repository](https://github.com/swypt/checkout-sdk)
