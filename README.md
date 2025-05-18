@@ -6,9 +6,10 @@ The Swypt Checkout SDK is a comprehensive payment solution that enables seamless
 
 ## Requirements
 
-- Next.js 14.1.4+
-- React 18.0.0+
-- Node.js 16.0.0+
+- Next.js 14.2.4
+- React 18.0.0
+- React DOM 18.0.0
+- Node.js 16.0.0
 
 ## Installation
 
@@ -304,3 +305,4 @@ If the modal opens as a new page instead of an overlay:
 ## Support and Resources
 
 - Email: support@swypt.io
+- GitHub: [GitHub Repository](https://github.com/swypt/checkout-sdk)
